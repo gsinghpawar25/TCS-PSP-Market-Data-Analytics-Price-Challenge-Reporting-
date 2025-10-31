@@ -244,7 +244,7 @@ Date       | Year | Quarter | Month | MonthName | Week | Day | DayName | IsWeeke
 | Metric | Value | Interpretation |
 |--------|-------|-----------------|
 | **Precision Rate %** | 99.91% | Extremely high data quality |
-| **Avg Price Variation %** | 0.04% | Minimal price discrepancy across vendors |
+| **Avg Price Variation %** | 4.4% | Minimal price discrepancy across vendors |
 | **High Outliers** | 16 total | Only 0.08% of records are flagged |
 | **Total Securities** | 800 | Comprehensive security coverage |
 | **Total Records** | 20,000 | Sufficient data volume for analysis |
