@@ -253,23 +253,23 @@ Date       | Year | Quarter | Month | MonthName | Week | Day | DayName | IsWeeke
 
 | Rank | Vendor | Precision Rate | Avg Deviation | High Outliers |
 |------|--------|----------------|---------------|---------------|
-| 1 | Bloomberg | 100% | 0.03% | 0 |
-| 2 | Markit | 99.85% | 0.09% | 0 |
-| 3 | Reuters | 99.81% | 0.06% | 0 |
-| 4 | Refinitiv | 99.90% | 0.01% | 0 |
-| 5 | FactSet | 99.90% | 0.05% | 0 |
-| 6 | MSCI | 99.90% | 0.05% | 1 |
-| 7 | NASDAQ | 99.80% | 0.10% | 4 |
-| 8 | Morningstar | 99.80% | 0.19% | 3 |
-| 9 | S&P | 99.85% | 0.15% | 3 |
-| 10 | ICE_Data | 99.90% | 0.10% | 2 |
+| 1 | Bloomberg | 100% | 3% | 0 |
+| 2 | Markit | 99.85% | 9% | 0 |
+| 3 | Reuters | 99.81% | 6% | 0 |
+| 4 | Refinitiv | 99.90% | 1% | 0 |
+| 5 | FactSet | 99.90% | 5% | 0 |
+| 6 | MSCI | 99.90% | 5% | 1 |
+| 7 | NASDAQ | 99.80% | 10% | 4 |
+| 8 | Morningstar | 99.80% | 19% | 3 |
+| 9 | S&P | 99.85% | 15% | 3 |
+| 10 | ICE_Data | 99.90% | 10% | 2 |
 
 ### Outlier Distribution
 
 - **Exact Match (0%)**: 19,982 records (99.91%)
-- **Low (<3%)**: 0 records (0.00%)
-- **Medium (3-5%)**: 2 records (0.01%)
-- **High (>5%)**: 16 records (0.08%)
+- **Low (<3%)**: 0 records (0%)
+- **Medium (3-5%)**: 2 records (1%)
+- **High (>5%)**: 16 records (8%)
 
 ---
 
@@ -374,7 +374,7 @@ pip install pandas numpy jupyter
 ## 🎯 Key Insights
 
 1. **Exceptional Data Quality**: 99.91% precision rate indicates highly reliable vendor feeds
-2. **Minimal Price Variance**: Only 0.04% average price variation suggests market consistency
+2. **Minimal Price Variance**: Only 4.4% average price variation suggests market consistency
 3. **Rare Outliers**: Just 16 high outliers (>5% deviation) across 20,000 records
 4. **Vendor Reliability**: All vendors maintain >99.8% precision rates
 5. **Balanced Coverage**: Even distribution across 10 exchanges and price types
