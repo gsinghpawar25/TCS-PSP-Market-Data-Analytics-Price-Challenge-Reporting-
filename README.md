@@ -332,15 +332,15 @@ pip install pandas numpy jupyter
 
 ## 📊 Dashboard Views (Power BI)
 
-![Power BI Logo]([https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg](https://github.com/gsinghpawar25/TCS-PSP-Market-Data-Analytics-Price-Challenge-Reporting-/blob/main/page%201.png))
+![Power BI Logo](https://github.com/gsinghpawar25/TCS-PSP-Market-Data-Analytics-Price-Challenge-Reporting-/blob/main/page%201.png)
 
-![Power BI Logo]([https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg](https://github.com/gsinghpawar25/TCS-PSP-Market-Data-Analytics-Price-Challenge-Reporting-/blob/main/page%202.png))
+![Power BI Logo](https://github.com/gsinghpawar25/TCS-PSP-Market-Data-Analytics-Price-Challenge-Reporting-/blob/main/page%202.png)
 
-![Power BI Logo]([https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg](https://github.com/gsinghpawar25/TCS-PSP-Market-Data-Analytics-Price-Challenge-Reporting-/blob/main/page%203.png))
+![Power BI Logo](https://github.com/gsinghpawar25/TCS-PSP-Market-Data-Analytics-Price-Challenge-Reporting-/blob/main/page%203.png)
 
-![Power BI Logo]([https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg](https://github.com/gsinghpawar25/TCS-PSP-Market-Data-Analytics-Price-Challenge-Reporting-/blob/main/page%204.png))
+![Power BI Logo](https://github.com/gsinghpawar25/TCS-PSP-Market-Data-Analytics-Price-Challenge-Reporting-/blob/main/page%204.png)
 
-![Power BI Logo]([https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg](https://github.com/gsinghpawar25/TCS-PSP-Market-Data-Analytics-Price-Challenge-Reporting-/blob/main/page%205.png))
+![Power BI Logo](https://github.com/gsinghpawar25/TCS-PSP-Market-Data-Analytics-Price-Challenge-Reporting-/blob/main/page%205.png)
 
 
 ## 📋 Data Quality Checks
