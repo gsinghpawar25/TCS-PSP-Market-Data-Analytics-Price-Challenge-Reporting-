@@ -332,32 +332,16 @@ pip install pandas numpy jupyter
 
 ## 📊 Dashboard Views (Power BI)
 
-### 1. Vendor Performance Overview
-- Vendor Performance Score Trend
-- High Outliers Distribution by Vendor
-- Average Price Variation % and Precision Rate by Vendor
-- Total Records by Vendor
+![Power BI Logo]([https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg](https://github.com/gsinghpawar25/TCS-PSP-Market-Data-Analytics-Price-Challenge-Reporting-/blob/main/page%201.png))
 
-### 2. Exchange & Price Type Analysis
-- Records by Exchange
-- Exchange-Vendor Performance Heatmap
-- Price Type Distribution
-- Quarterly Trends
+![Power BI Logo]([https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg](https://github.com/gsinghpawar25/TCS-PSP-Market-Data-Analytics-Price-Challenge-Reporting-/blob/main/page%202.png))
 
-### 3. Time Series & Trend Analysis
-- Monthly Record Volume Trend (Stacked Area Chart)
-- Year-to-Date Outliers by Vendor and Year
-- Month over Month Variance Change
-- Total Records by Exchange and Vendor
+![Power BI Logo]([https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg](https://github.com/gsinghpawar25/TCS-PSP-Market-Data-Analytics-Price-Challenge-Reporting-/blob/main/page%203.png))
 
-### 4. Price Challenge Reporting
-- Total Securities, Avg Price Variation %, Precision Rate %
-- Outlier Percentage by Vendor Code
-- Total Records by Exchange and Vendor
-- Outlier Category Distribution
-- Vendor Performance Matrix (Exact Match vs High Outliers)
+![Power BI Logo]([https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg](https://github.com/gsinghpawar25/TCS-PSP-Market-Data-Analytics-Price-Challenge-Reporting-/blob/main/page%204.png))
 
----
+![Power BI Logo]([https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg](https://github.com/gsinghpawar25/TCS-PSP-Market-Data-Analytics-Price-Challenge-Reporting-/blob/main/page%205.png))
+
 
 ## 📋 Data Quality Checks
 
